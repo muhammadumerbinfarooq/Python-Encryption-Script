@@ -1,7 +1,4 @@
-Sure! Here's a well-formatted `README.md` file for your encryption and decryption script:
-
-```markdown
-# Caesar Cipher Encryption and Decryption
+Caesar Cipher Encryption and Decryption
 
 This Python script provides a simple implementation of the Caesar Cipher for both encryption and decryption of text. The Caesar Cipher is a type of substitution cipher where each letter in the plaintext is shifted a certain number of places down or up the alphabet.
 
